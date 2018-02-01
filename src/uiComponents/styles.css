@@ -1,0 +1,39 @@
+.Container {
+  background: #fff;
+  color: #000;
+  text-align: left;
+  padding: 20px;
+}
+
+.Header {
+  margin-bottom: 20px;
+}
+
+.TeamsContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.TeamItem {
+  width: calc(50% - 10px);
+}
+
+.TeamHeader {
+  border-bottom: 3px solid #000;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+}
+
+.TeamContent {
+  max-height: 30vh;
+  overflow-y: scroll;
+}
+
+.PlayerItem {
+  border-bottom: 3px solid #eee;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}

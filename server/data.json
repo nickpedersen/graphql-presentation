@@ -1,0 +1,39 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Tune Squad"
+    },
+    {
+      "id": 2,
+      "name": "Monstars"
+    }
+  ],
+  "players": [
+    { "id": 1, "name": "Michael Jordan", "teamId": 1 },
+    { "id": 2, "name": "Yosemite Sam", "teamId": 1 },
+    { "id": 3, "name": "Tazmanian Devil", "teamId": 1 },
+    { "id": 4, "name": "Daffy Duck", "teamId": 1 },
+    { "id": 5, "name": "Bugs Bunny", "teamId": 1 },
+    { "id": 6, "name": "Tweety", "teamId": 1 },
+    { "id": 7, "name": "Foghorn Leghorn", "teamId": 1 },
+    { "id": 8, "name": "Lola Bunny", "teamId": 1 },
+    { "id": 9, "name": "Wile E. Coyote", "teamId": 1 },
+    { "id": 10, "name": "Elmer Fudd", "teamId": 1 },
+    { "id": 11, "name": "Porky Pig", "teamId": 1 },
+    { "id": 12, "name": "Marvin The Martian", "teamId": 1 },
+    { "id": 13, "name": "Sylvester The Cat", "teamId": 1 },
+    { "id": 14, "name": "Bill Murray", "teamId": 1 },
+    { "id": 15, "name": "Stan Podolak", "teamId": 1 },
+    { "id": 16, "name": "Monstar Pound", "teamId": 2 },
+    { "id": 17, "name": "Monstar Bang", "teamId": 2 },
+    { "id": 18, "name": "Monstar Nawt", "teamId": 2 },
+    { "id": 19, "name": "Monstar Bupkus", "teamId": 2 },
+    { "id": 20, "name": "Monstar Blanko", "teamId": 2 },
+    { "id": 21, "name": "Charles Barkley", "teamId": 2 },
+    { "id": 22, "name": "Patrick Ewing", "teamId": 2 },
+    { "id": 23, "name": "Larry Johnson", "teamId": 2 },
+    { "id": 24, "name": "Shawn Bradley", "teamId": 2 },
+    { "id": 25, "name": "Muggsy Bogues", "teamId": 2 }
+  ]
+}
